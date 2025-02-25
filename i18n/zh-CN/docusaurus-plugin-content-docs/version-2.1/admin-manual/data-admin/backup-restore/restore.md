@@ -57,6 +57,7 @@ PROPERTIES
     "backup_timestamp"="2022-04-08-15-52-29"
 );
 ```
+> 可通过`"replication_num"="1"`指定恢复的数据表副本个数
 
 ### Option 2：恢复快照到指定数据库
 
